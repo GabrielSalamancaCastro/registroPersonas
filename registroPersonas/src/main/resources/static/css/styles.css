@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+  }
+
+
+body{
+  margin: 0;
+  background-color: #fcf3f6;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #9370DB;
+    padding: 0 5%; 
+    color: white;
+    align-items: center;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+
+header nav ul li{
+    list-style-type:none
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+header nav ul li a:hover{
+  color: purple;
+}
+
+
+.registro{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 300px;
+}
+
+.registrarPersona{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 200px;
+    height: 200px;    
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+#registro-btn{
+    width: 200px;
+}
+
+
+#todos{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.listadoPersonas{
+    display: flex;
+}

@@ -1,0 +1,65 @@
+[2021-09-09 15:42:50] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 15:42:52] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 15:48:54] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 15:50:51] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 15:53:09] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 15:58:30] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 16:01:10] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 16:03:42] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 16:05:21] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 16:07:30] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 16:14:08] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 16:15:23] [ ERROR] [ConfiguracionJDBC:77] Error Parametro de conexión No soportado " INIT"
+Unsupported connection setting " INIT" [90113-200]
+[2021-09-09 16:16:53] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-200]
+[2021-09-09 16:24:01] [ ERROR] [ConfiguracionJDBC:77] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-199]
+[2021-09-09 16:24:58] [ ERROR] [ConfiguracionJDBC:59] Error Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-199]
+[2021-09-09 16:36:02] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 5
+[2021-09-09 16:36:14] [ ERROR] [PersonaDaoH2:85] Error: Columna "LIONEL" no encontrada
+Column "LIONEL" not found; SQL statement:
+INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Lionel, 'Messi', 'FALSO') [42122-199]
+[2021-09-09 16:37:26] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-09 16:37:37] [ ERROR] [PersonaDaoH2:85] Error: Columna "LIONEL" no encontrada
+Column "LIONEL" not found; SQL statement:
+INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Lionel, 'Messi', 'FALSO') [42122-199]
+[2021-09-09 16:41:53] [ ERROR] [PersonaDaoH2:85] Error: Columna "JORGE" no encontrada
+Column "JORGE" not found; SQL statement:
+INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Jorge, 'Salamanca', 'FALSO') [42122-199]
+[2021-09-09 16:45:43] [ ERROR] [PersonaDaoH2:85] Error: Columna "JORGE" no encontrada
+Column "JORGE" not found; SQL statement:
+INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Jorge, 'Salamanca', 'FALSO') [42122-199]
+[2021-09-09 17:06:31] [ ERROR] [PersonaDaoH2:85] Error: Columna "GABRIEL" no encontrada
+Column "GABRIEL" not found; SQL statement:
+INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Gabriel, 'Salamanca', 'FALSO') [42122-199]
+[2021-09-09 17:06:42] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-09 17:14:19] [ ERROR] [PersonaDaoH2:85] Error: Columna "GABRIEL" no encontrada
+Column "GABRIEL" not found; SQL statement:
+INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Gabriel, 'null', 'FALSO') [42122-199]
+[2021-09-09 17:23:39] [ ERROR] [PersonaDaoH2:85] Error: Columna "GABRIEL" no encontrada
+Column "GABRIEL" not found; SQL statement:
+INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Gabriel, 'null', 'FALSO') [42122-199]
+[2021-09-09 18:33:30] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 95
+[2021-09-09 18:36:02] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-09 23:36:56] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-09 23:56:22] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 127
+[2021-09-10 00:14:15] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 00:28:47] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 00:28:47] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 00:29:14] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 00:29:32] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 00:29:38] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 08:57:44] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
