@@ -8,6 +8,7 @@ botonRegistrar.addEventListener("click", function(event){
 let procesado = document.querySelector('#FALSO');
 let nombrePost = document.querySelector('#nombre');
 let apellidoPost = document.querySelector('#apellido');
+let confirmacionRegistro = document.querySelector('#confirmacionRegistro')
 
 let dataPost={
     nombre: nombrePost.value,
@@ -30,6 +31,9 @@ let dataPost={
     })
     .then(function(data){
         console.log('Success:', data);
+        confirmacionRegistro.innerHTML=`
+        <h3>SE HA REGISTRADO A LA PERSONA CON ID: ${data.id}
+        ` 
       })
       .catch((error) => {
         console.error('Error:', error);

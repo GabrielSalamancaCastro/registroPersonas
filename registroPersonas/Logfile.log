@@ -139,3 +139,6 @@ INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Gabriel, 'null', 'FAL
 [2021-09-10 19:20:38] [ DEBUG] [PersonaDaoH2:124] Datos actualizados en la tabla Personas, ID: 1
 [2021-09-10 19:20:38] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
 [2021-09-10 19:20:44] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 19:58:13] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 5
+[2021-09-10 19:59:53] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 20:32:44] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas

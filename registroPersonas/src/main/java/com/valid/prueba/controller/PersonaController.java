@@ -20,7 +20,6 @@ public class PersonaController {
     private PersonaService personaService;
 
 
-
     // ===== METODO POST =======
     @PostMapping()
     public Persona insertInto(@RequestBody Persona persona) {
