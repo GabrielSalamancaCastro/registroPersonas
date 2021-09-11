@@ -63,3 +63,79 @@ INSERT INTO Personas (Nombre, Apellido, Procesado) VALUES (Gabriel, 'null', 'FAL
 [2021-09-10 00:29:32] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
 [2021-09-10 00:29:38] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
 [2021-09-10 08:57:44] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:10:10] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:11:03] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:11:23] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:11:52] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:13:35] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:15:16] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:18:03] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:19:50] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:22:01] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:23:46] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:23:55] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 159
+[2021-09-10 09:23:59] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:27:34] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:27:47] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 160
+[2021-09-10 09:27:51] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:32:11] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 161
+[2021-09-10 09:32:14] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:40:31] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 162
+[2021-09-10 09:41:27] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 163
+[2021-09-10 09:45:00] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 164
+[2021-09-10 09:45:07] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:51:16] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 09:51:28] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 165
+[2021-09-10 09:56:48] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 14:20:20] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 14:21:38] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 14:22:26] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 14:23:01] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 14:27:06] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 14:27:43] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 15:03:05] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 15:04:01] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 15:08:49] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 15:14:14] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 191
+[2021-09-10 15:14:19] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 15:15:17] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 191
+[2021-09-10 15:16:20] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 15:17:14] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 15:19:58] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 15:33:42] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 15:34:29] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 17:26:25] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 17:26:57] [ INFO ] [PersonaDaoH2:101] Campo eliminado en la tabla Personas, ID: 163
+[2021-09-10 17:27:05] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 17:34:20] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:35:30] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:36:33] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:37:34] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:40:00] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:42:17] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:48:11] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:48:16] [ INFO ] [PersonaDaoH2:101] Campo eliminado en la tabla Personas, ID: 160
+[2021-09-10 17:48:45] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:48:49] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 160
+[2021-09-10 17:48:59] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 95
+[2021-09-10 17:49:03] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 17:49:39] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 17:49:55] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 5
+[2021-09-10 17:49:56] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 5
+[2021-09-10 17:49:56] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 5
+[2021-09-10 17:50:05] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 5
+[2021-09-10 18:57:06] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 19:12:41] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 19:12:54] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 19:14:21] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 19:16:04] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 19:16:27] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 19:16:41] [ DEBUG] [PersonaDaoH2:78] Correcta inserción en la base de datos Personas, ID: 223
+[2021-09-10 19:16:47] [ DEBUG] [PersonaDaoH2:176] Búsqueda realizada en toda la tabla de Personas
+[2021-09-10 19:17:06] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 159
+[2021-09-10 19:17:09] [ INFO ] [PersonaDaoH2:101] Campo eliminado en la tabla Personas, ID: 159
+[2021-09-10 19:17:14] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 159
+[2021-09-10 19:20:36] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 19:20:38] [ DEBUG] [PersonaDaoH2:124] Datos actualizados en la tabla Personas, ID: 1
+[2021-09-10 19:20:38] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1
+[2021-09-10 19:20:44] [ DEBUG] [PersonaDaoH2:148] Búsqueda realizada en la tabla Personas, ID: 1

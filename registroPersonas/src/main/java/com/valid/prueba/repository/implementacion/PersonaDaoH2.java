@@ -117,7 +117,7 @@ public class PersonaDaoH2 implements Idao<Persona> {
         Statement statement = configuracionJDBC.statementDB(); // Statement st = cn.createStatement();
 
 
-        String query = String.format("UPDATE Personas SET Nombre = %d, Apellido = '%s', Procesado = '%s' WHERE ID = %d", persona.getNombre(), persona.getApellido(), persona.getProcesado(), persona.getId());
+        String query = String.format("UPDATE Personas SET Nombre = '%s', Apellido = '%s', Procesado = '%s' WHERE ID = %d", persona.getNombre(), persona.getApellido(), persona.getProcesado(), persona.getId());
 
         try{
             statement.executeUpdate(query);
